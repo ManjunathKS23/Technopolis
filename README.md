@@ -46,8 +46,8 @@ Technopolis transforms the educational landscape by incorporating gamification e
 - **IDE**: Android Studio
 
 ## Credits
-- **Project Lead**:Manjunath K S(https://github.com/ManjunathKS23)
-- **Contributors**:
+- **Team Members:**:
+- Manjunath K S(https://github.com/ManjunathKS23)
 - Dhruthi N(https://github.com/dhruth-in)
 - Rachitha B R(https://github.com/Rachitha363)
 
