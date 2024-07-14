@@ -1,4 +1,4 @@
-# # 🎮 EduGame: Gamifying Education
+ # 🎮 EduGame: Gamifying Education
 
 ## Project Description
 EduGame transforms the educational landscape by incorporating gamification elements, making learning a thrilling adventure! With features like badges, achievements, points, leaderboards, and game-like challenges, students will be more engaged, motivated, and successful in their educational journeys.
