@@ -47,7 +47,9 @@ EduGame transforms the educational landscape by incorporating gamification eleme
 
 ## Credits
 - **Project Lead**:Manjunath K S(https://github.com/ManjunathKS23)
-- **Contributors**: Dhruthi N (https://github.com/your-username/EduGame/graphs/contributors)
+- **Contributors**:
+- Dhruthi N(https://github.com/dhruth-in)
+- Rachitha S(https://github.com/Rachitha363)
 
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
