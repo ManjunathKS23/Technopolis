@@ -25,7 +25,7 @@ Technopolis transforms the educational landscape by incorporating gamification e
    git clone https://github.com/ManjunathKS23/Technopolis.git
 2. **Navigate to the project directory:**
    ```bash
-   cd EduGame
+   cd Technopolis
 3. **Install dependencies:**
    ```bash
    flutter pub get
@@ -49,7 +49,7 @@ Technopolis transforms the educational landscape by incorporating gamification e
 - **Project Lead**:Manjunath K S(https://github.com/ManjunathKS23)
 - **Contributors**:
 - Dhruthi N(https://github.com/dhruth-in)
-- Rachitha S(https://github.com/Rachitha363)
+- Rachitha B R(https://github.com/Rachitha363)
 
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
