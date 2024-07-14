@@ -1,4 +1,4 @@
- # 🎮 EduGame: Gamifying Education
+ # 🎮 Technopolis: Gamifying Education
 
 ## Project Description
 EduGame transforms the educational landscape by incorporating gamification elements, making learning a thrilling adventure! With features like badges, achievements, points, leaderboards, and game-like challenges, students will be more engaged, motivated, and successful in their educational journeys.
@@ -22,7 +22,7 @@ EduGame transforms the educational landscape by incorporating gamification eleme
 ## How to Install and Run the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ManjunathKS23/EduGame.git
+   git clone https://github.com/ManjunathKS23/Technopolis.git
 2. **Navigate to the project directory:**
    ```bash
    cd EduGame
