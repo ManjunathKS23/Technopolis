@@ -45,8 +45,8 @@ Technopolis transforms the educational landscape by incorporating gamification e
 - **Framework**: Flutter
 - **IDE**: Android Studio
 
-## 🫂 Credits
-- **Team Members:**:
+##  Credits
+**Team Members:**:
 - Manjunath K S(https://github.com/ManjunathKS23)
 - Dhruthi N(https://github.com/dhruth-in)
 - Rachitha B R(https://github.com/Rachitha363)
