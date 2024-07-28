@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # technopolis
 
 A new Flutter project.
@@ -25,17 +25,23 @@ Technopolis transforms the educational landscape by incorporating gamification e
 1. [Project Description](#project-description)
 2. [Table of Contents](#table-of-contents)
 3. [Features](#features)
-4. [How to Install and Run the Project](#how-to-install-and-run-the-project)
-5. [How to Use the Project](#how-to-use-the-project)
-6. [Tech Stack](#tech-stack)
-7. [Credits](#credits)
-8. [License](#license)
+4. [Timeline of progress](#timeline)
+5. [How to Install and Run the Project](#how-to-install-and-run-the-project)
+6. [How to Use the Project](#how-to-use-the-project)
+7. [Tech Stack](#tech-stack)
+8. [Credits](#credits)
+9. [License](#license)
 
 ## Features
 - **Badges and Achievements**: Earn digital badges for completing tasks, mastering concepts, and demonstrating skills.
 - **Points and Leaderboards**: Accumulate points and see your ranking among peers on the leaderboard.
 - **Game-like Elements**: Engage with levels, challenges, and rewards to make learning fun.
 - **Collaboration and Competition**: Work together or compete with classmates to achieve goals, fostering a sense of community and friendly competition.
+
+## Timeline
+- The first step was to design the Figma file: https://www.figma.com/design/H7PxqjoLukcYJWOgiaDh97/Untitled?node-id=0-1&t=66uENmLJYUJx9nwN-1
+- Then we started coding the respective pages on Android Studio using the Flutter framework in the language Dart.
+- Major functionality of the project is working, while we also need to further upgrade the application based on user requirements.
 
 ## 📥 How to Install and Run the Project
 1. **Clone the repository:**
