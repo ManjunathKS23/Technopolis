@@ -1,6 +1,6 @@
- # 🎮 Technopolis: Gamifying Education
+ # Technopolis: Gamifying Education
 
-## 📌 Project Description
+## Project Description
 Technopolis transforms the educational landscape by incorporating gamification elements, making learning a thrilling adventure! With features like badges, achievements, points, leaderboards, and game-like challenges, students will be more engaged, motivated, and successful in their educational journeys.
 
 ## Table of Contents
@@ -25,7 +25,7 @@ Technopolis transforms the educational landscape by incorporating gamification e
 - Then we started coding the respective pages on Android Studio using the Flutter framework in the language Dart.
 - Major functionality of the project is working, while we also need to further upgrade the application based on user requirements.
 
-## 📥 How to Install and Run the Project
+## How to Install and Run the Project
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/ManjunathKS23/Technopolis.git
@@ -57,5 +57,5 @@ Technopolis transforms the educational landscape by incorporating gamification e
 - Dhruthi N(https://github.com/dhruth-in)
 - Rachitha B R(https://github.com/Rachitha363)
 
-## 🚨 License
+## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
